@@ -68,8 +68,8 @@ Frontend runs at `http://localhost:5173`
 
 | Role | Email | Password |
 |------|-------|----------|
-| Admin | admin@gym.com | admin123 |
-| Member | member@gym.com | member123 |
+| Admin | imran@gym.com | 1245678 |
+| Member | imran@gym.com | 1245678 |
 
 ## API Endpoints
 
