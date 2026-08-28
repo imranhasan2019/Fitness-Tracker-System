@@ -7,7 +7,7 @@ const Home = () => {
   return (
     <section className="hero-section">
       <div className="container text-center">
-        <h1 className="display-4 fw-bold mb-3">Gym Membership & Fitness Tracker</h1>
+        <h1 className="display-4 fw-bold mb-3">Fitness Tracker</h1>
         <p className="lead mb-4 opacity-90">
           Manage memberships, track workouts, calculate BMI, and monitor your fitness journey — all
           in one place.
@@ -40,8 +40,8 @@ const Home = () => {
           <div className="col-md-4">
             <div className="card stat-card p-4 text-dark">
               <h3>📋</h3>
-              <h5>Membership Plans</h5>
-              <p className="text-muted mb-0">Choose from flexible membership packages.</p>
+              <h5>Calorie Calculator</h5>
+              <p className="text-muted mb-0">Calculate your daily calorie needs and track your intake.</p>
             </div>
           </div>
           <div className="col-md-4">
