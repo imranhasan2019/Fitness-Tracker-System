@@ -100,7 +100,7 @@ function App() {
       <footer className="text-center">
         <div className="container">
           <p className="mb-0">
-            Gym Membership & Fitness Tracker System &copy; {new Date().getFullYear()} | CSE-323
+            Fitness Tracker System &copy; {new Date().getFullYear()} | CSE-323
             Web Programming | Developed by: <a>Imran Hosen</a>
           </p>
         </div>

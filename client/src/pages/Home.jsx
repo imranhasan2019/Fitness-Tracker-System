@@ -9,7 +9,7 @@ const Home = () => {
       <div className="container text-center">
         <h1 className="display-4 fw-bold mb-3">Fitness Tracker</h1>
         <p className="lead mb-4 opacity-90">
-          Manage memberships, track workouts, calculate BMI, and monitor your fitness journey — all
+          track workouts, calculate BMI, and monitor your fitness journey — all
           in one place.
         </p>
         {user ? (
